@@ -1,5 +1,5 @@
 # Password Locker
-Built By David Kiiru
+Built By David kiiru
 ## Description
 Password Locker is a terminal run python application that allows users to store details i.e. usernames and passwords of their various accounts.
 
@@ -16,10 +16,10 @@ These are the behaviours/features that the application implements for use by a u
 
 ## SetUp / Installation Requirements
 Prerequisites
-* python3.8
+* python3.6
 * pip
 * pyperclip
-
+* xclip
 
 # In your terminal:
 
@@ -35,6 +35,6 @@ To run the tests for the class file:
 
   $ python3.6 user_credentials_test.py
 ### Technologies Used
-* Python3.8
+* Python3.6
 * License
-#### MIT ©2020 David Kiiru
+#### MIT ©2020 David kiiru

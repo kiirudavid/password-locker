@@ -43,7 +43,7 @@ def main():
   """
   main functions called here
   """
-  print("--PASSWORD LOCCKER APP :)--")
+  print("--PASSWORD LOCKER APP :)--")
   print("Tip Create an account first")
   print("What's your name?")
   user_name = input()
